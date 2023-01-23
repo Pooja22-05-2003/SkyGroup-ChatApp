@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "514582539073",
+    "project_id": "skygroup-chatapp",
+    "storage_bucket": "skygroup-chatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514582539073:android:1e8ec36914829028380fc0",
+        "android_client_info": {
+          "package_name": "com.example.skygroup_chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514582539073-d2ii5loppqs3e6b0l8gt7imuir585b05.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.skygroup_chatapp",
+            "certificate_hash": "ff04d7d318da9ccdace8eaa246ec5abc06364c66"
+          }
+        },
+        {
+          "client_id": "514582539073-g0oq973bbkih7plk9uf17htdj4eest2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFV1dtmPtaMvgxcvf-k1_lDdATQMZHNAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514582539073-g0oq973bbkih7plk9uf17htdj4eest2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
